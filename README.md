@@ -5,7 +5,7 @@ Eu sou o Weverton Augusto, sou um Programador Front End, estou aprendendo e dese
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css3" width="100px"/>
 <br/>
 
-## Contato:
+## Contact:
 <p>
     <a href="https://www.instagram.com/weverton_aug/">
    <img align="left" alt="image-logo-instagram" width="22px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg"/>
